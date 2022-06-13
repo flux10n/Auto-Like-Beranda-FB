@@ -1,2 +1,2 @@
-# Auto-Like-Beranda-FB
-Auto like beranda Facebook dengan tools php 👻
+### Tools PHP like facebook
+Source code by [LinuxSec](https://exploit.linuxsec.org/tools-autolike-beranda-facebook-versi/)
